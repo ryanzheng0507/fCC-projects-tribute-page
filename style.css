@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  width: 50%;
+  height: auto;
+}
