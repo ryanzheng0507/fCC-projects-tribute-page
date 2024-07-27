@@ -1,5 +1,14 @@
 body {
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#title {
+  font-size: 50px;
+}
+
+#description {
+  font-size: 30px;
 }
 
 #img-div {
@@ -14,4 +23,9 @@ body {
   max-width: 100%;
   width: 50%;
   height: auto;
+  margin-bottom: 5px;
+}
+
+#tribute-link {
+  text-decoration: none;
 }
